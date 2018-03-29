@@ -1,0 +1,44 @@
+ body {
+    display: flex;
+    min-height: 100vh;
+    flex-direction: column;
+  }
+
+  main {
+    flex: 1 0 auto;
+  }
+
+.rotate90 {
+    -webkit-transform:rotate (90deg);
+    -moz-transform:rotate (90deg);
+    -o-transform:rotate (90deg);
+    -ms-transform:rotate (90deg);
+    transform:rotate (90deg);
+}
+        /* font */
+.css-selector{
+font-family: 'VT323', roboto,monospace;
+}
+   /* font size */
+p {
+    font-size: 1.5em; /* 16px/16=1em */
+}
+
+
+body {
+    display: flex;
+    min-height: 100vh;
+    flex-direction: column;
+  }
+
+  main {
+    flex: 1 0 auto;
+  }
+
+
+
+
+
+
+
+
